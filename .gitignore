@@ -393,5 +393,7 @@ docker.env
 .env
 rabbitmq.env
 dist
+.history
 
+uploadedFiles
 uploadedFiles
