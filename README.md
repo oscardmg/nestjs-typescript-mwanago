@@ -1,6 +1,11 @@
 # link tutorial
 [Tutorial](https://wanago.io/2020/05/11/nestjs-api-controllers-routing-module/)
 
+- create .env and docker.env
+- run : docker-compose up
+- 
+
+
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
